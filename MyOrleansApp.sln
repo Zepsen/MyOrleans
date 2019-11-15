@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyOrleans", "MyOrleans\MyOrleans.csproj", "{464B6F66-493C-4D22-AB31-C01D10F8EDC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyOrleans.Client", "MyOrleans.Client\MyOrleans.Client.csproj", "{29834518-C337-4257-962A-6CE30FD1D6A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{464B6F66-493C-4D22-AB31-C01D10F8EDC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{464B6F66-493C-4D22-AB31-C01D10F8EDC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{464B6F66-493C-4D22-AB31-C01D10F8EDC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{464B6F66-493C-4D22-AB31-C01D10F8EDC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29834518-C337-4257-962A-6CE30FD1D6A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29834518-C337-4257-962A-6CE30FD1D6A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29834518-C337-4257-962A-6CE30FD1D6A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29834518-C337-4257-962A-6CE30FD1D6A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA0D91E2-95E8-4C02-991D-CFE1D6149AA2}
+	EndGlobalSection
+EndGlobal
